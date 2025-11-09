@@ -14,5 +14,6 @@ https://gist.github.com/kimkhoahack/792b4bf4dc985aaf6a2af6e940c47009
 </details>
 
 3.Tiếp tục bằng cách nhấp vào nút Cài đặt (hoặc Cập nhật, Ghi đè) trong tab vừa mở để xác nhận việc cài đặt.
+
 4. Sau khi cài đặt thành công, hãy truy cập vào trang web [OLM](https://olm.vn/lop-hoc-cua-toi) và bạn sẽ thấy 
 
