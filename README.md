@@ -20,8 +20,8 @@ https://gist.github.com/kimkhoahack/6e634d530a9715e91f0aaa76f88f21f7
 _______________________________________________________________________________________________________________________
 
    ## 📖 Script Features
-### Basic Features
 - *LÀM BỞI KIM KHOA*
 - *TẢI FILE WORD ĐÁP ÁN*
 - *GIAO DIỆN ĐẸP*
 - *CÓ ĐÁP ÁN:)))*
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Install Script](https://img.shields.io/badge/code%20b%E1%BB%91%20t%E1%BB%B1%20l%C3%A0m-8A2BE2)&nbsp;
