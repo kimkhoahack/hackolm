@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23C5B9FF&lines=Hi%2C+I%27m+KimKhoa+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ch%C3%A0o+b%E1%BB%91+l%C3%A0+Kim+Khoa)](https://git.io/typing-svg)
 ## ⚙ How to Install
 1. TAỈ CHO TAO CÁI NÀY [[Tampermonkey](https://www.tampermonkey.net/)]
    - [Tampermonkey installation guide](https://youtu.be/4KfFBYJ2J54?si=0JapxO2ha8jfVYb7).
